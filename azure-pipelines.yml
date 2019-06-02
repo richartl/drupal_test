@@ -1,7 +1,7 @@
 variables:
   registryName: rippertesting
   imageName: ripper-drupal
-  imageVersion: v1.0
+  imageVersion: v1.1
   pass: $(dockerPassword)
 trigger:
   - master
